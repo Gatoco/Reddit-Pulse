@@ -4,10 +4,13 @@ venv/
 # Ignore Python cache
 __pycache__/
 *.pyc
+.pytest_cache/
 
 # Ignore sensitive data
 .env
 *.env
+secrets/
+credentials/
 
 # Ignore data files
 data/

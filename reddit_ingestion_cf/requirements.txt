@@ -1,5 +1,6 @@
 praw
 google-cloud-pubsub
 google-cloud-storage
+google-cloud-monitoring
 python-dotenv
 pytest
