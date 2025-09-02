@@ -2,5 +2,6 @@ praw
 google-cloud-pubsub
 google-cloud-storage
 google-cloud-monitoring
+google-cloud-secret-manager
 python-dotenv
 pytest
