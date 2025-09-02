@@ -16,6 +16,9 @@ credentials/
 # Ignore data files
 data/
 
+# Ignore reports directory
+reports/
+
 # Ignore IDE files
 .idea/
 .vscode/
